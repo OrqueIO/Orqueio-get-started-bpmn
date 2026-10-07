@@ -6,8 +6,8 @@ A complete example demonstrating how to integrate and run the Orqueio Platform w
 
 Orqueio Platform is a powerful business process management (BPM) engine that enables you to design, deploy, and execute BPMN workflows. This starter project includes:
 
-- Embedded Orqueio Engine (v2.0.2)
-- Spring Boot 4.0.2 integration
+- Embedded Orqueio Engine (v2.0.6)
+- Spring Boot 4.0.6 integration
 - Enterprise webapps for process management
 - REST API for programmatic access
 - Example BPMN process (Loan Approval)
@@ -15,8 +15,8 @@ Orqueio Platform is a powerful business process management (BPM) engine that ena
 
 ## Prerequisites
 
-- **Java**: 17 or 21
-- **Spring Boot**: 4.0.2
+- **Java**: 21 or 25
+- **Spring Boot**: 4.0.6
 - **Maven**: 3.6 or higher
 - **IDE**: (Optional) IntelliJ IDEA, Eclipse, or VS Code
 
@@ -60,8 +60,8 @@ Add the following to your `pom.xml`:
 
 ```xml
 <properties>
-  <spring-boot.version>4.0.2</spring-boot.version>
-  <orqueio.version>2.0.2</orqueio.version>
+  <spring-boot.version>4.0.6</spring-boot.version>
+  <orqueio.version>2.0.6</orqueio.version>
 </properties>
 
 <dependencyManagement>
