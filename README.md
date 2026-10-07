@@ -15,7 +15,7 @@ Orqueio Platform is a powerful business process management (BPM) engine that ena
 
 ## Prerequisites
 
-- **Java**: 17 or 21
+- **Java**: 21
 - **Spring Boot**: 4.0.2
 - **Maven**: 3.6 or higher
 - **IDE**: (Optional) IntelliJ IDEA, Eclipse, or VS Code
