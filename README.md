@@ -218,8 +218,8 @@ Change these credentials in `application.yaml` for production use.
 
 For more information about Orqueio Platform:
 - [Official Documentation](https://orqueio.io/docs)
-- [BPMN 2.0 Tutorial](https://orqueio.io/bpmn)
-- [REST API Reference](https://orqueio.io/api)
+- [BPMN 2.0 Tutorial](https://github.com/OrqueIO/Orqueio-bpm-examples)
+- [REST API Reference](https://docs.orqueio.io/rest/orqueio/)
 
 ## License
 
